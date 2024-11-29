@@ -1,7 +1,7 @@
 </div>
 <footer class="main-footer">
   <div class="footer-left">
-    Copyright &copy; 2024 Yuda Gunawan Simanjuntak</a>
+     &copy; 2024 Yuda Gunawan Simanjuntak</a>
   </div>
   <div class="footer-right">
 
