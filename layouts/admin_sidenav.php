@@ -10,8 +10,8 @@
       <a href="index.php">HC3</a>
     </div>
     <ul class="sidebar-menu">
-      <li class="menu-header">Dashboard</li>
-      <li><a class="nav-link" href="../"><i class="fas fa-fire"></i> <span>Home</span></a></li>
+      <li class="menu-header">CRM</li>
+      <li><a class="nav-link" href=""><i class="fas fa-fire"></i> <span>Home</span></a></li>
       <li class="menu-header">Main Feature</li>
       <li class="dropdown">
         <a href="#" class="nav-link has-dropdown" data-toggle="dropdown">
