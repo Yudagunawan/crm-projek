@@ -19,7 +19,7 @@
         </a>
         <ul class="dropdown-menu">
           <li><a class="nav-link" href="../crm/upload.php">Upload</a></li>
-          <li><a class="nav-link" href="../crm/process_upload.php">List</a></li>
+          <li><a class="nav-link" href="../crm/list.php">List</a></li>
         </ul>
       </li>
       <li class="dropdown">
